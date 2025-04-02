@@ -18,28 +18,24 @@
 
 ## 🧑‍💻 About Me
 
-<table border="0">
-  <tr>
-    <td width="60%">
-      ```python
-      class Naveenraj:
-          def __init__(self):
-              self.current_work = "Exam Hall Allocation"
-              self.learning = "React.js"
-              self.looking_to_collaborate = "White Hat Projects"
-              self.seeking_help_with = "AI"
-              self.email = "naveenrajthiyagarajan6@gmail.com"
-              self.fun_fact = "I am lazy😅"
-          
-          def ask_me_about(self):
-              return ["React", "Ethical Hacking", "AI"]
-      ```
-    </td>
-    <td width="40%">
-      <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
-    </td>
-  </tr>
-</table>
+<!-- Fixed table with correct Markdown code block -->
+<div>
+  <img align="right" alt="Coding" width="320" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+</div>
+
+```python
+class Naveenraj:
+    def __init__(self):
+        self.current_work = "Exam Hall Allocation"
+        self.learning = "React.js"
+        self.looking_to_collaborate = "White Hat Projects"
+        self.seeking_help_with = "AI"
+        self.email = "naveenrajthiyagarajan6@gmail.com"
+        self.fun_fact = "I am lazy😅"
+    
+    def ask_me_about(self):
+        return ["React", "Ethical Hacking", "AI"]
+```
 
 <!-- Animated divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -92,24 +88,27 @@
 ## 💪 Skill Proficiency
 
 <div align="center">
-  
-  **Frontend Development**
-  
+  <h3>Frontend Development</h3>
   <img src="https://progress-bar.dev/90/?width=500&title=HTML" alt="HTML Progress">
+  <br>
   <img src="https://progress-bar.dev/85/?width=500&title=CSS" alt="CSS Progress">
+  <br>
   <img src="https://progress-bar.dev/80/?width=500&title=JavaScript" alt="JavaScript Progress">
+  <br>
   <img src="https://progress-bar.dev/75/?width=500&title=React" alt="React Progress">
   
-  **Backend Development**
-  
+  <h3>Backend Development</h3>
   <img src="https://progress-bar.dev/85/?width=500&title=Python" alt="Python Progress">
+  <br>
   <img src="https://progress-bar.dev/80/?width=500&title=Java" alt="Java Progress">
+  <br>
   <img src="https://progress-bar.dev/70/?width=500&title=Node.js" alt="Node.js Progress">
   
-  **Security Skills**
-  
+  <h3>Security Skills</h3>
   <img src="https://progress-bar.dev/95/?width=500&title=Ethical%20Hacking" alt="Ethical Hacking Progress">
+  <br>
   <img src="https://progress-bar.dev/90/?width=500&title=Network%20Security" alt="Network Security Progress">
+  <br>
   <img src="https://progress-bar.dev/85/?width=500&title=Security%20Analysis" alt="Security Analysis Progress">
 </div>
 
@@ -119,18 +118,20 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <!-- GitHub Stats Card with animation -->
+  <!-- Fixed GitHub Stats Card with proper dimensions -->
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=navi-04&show_icons=true&locale=en&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="170">
+    <img src="https://github-readme-stats.vercel.app/api?username=navi-04&show_icons=true&locale=en&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%">
   </a>
   
-  <!-- Most Used Languages Card with animation -->
+  <!-- Fixed Most Used Languages Card with proper dimensions -->
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=navi-04&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="Most Used Languages" height="170">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=navi-04&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="Most Used Languages" width="48%">
   </a>
 </div>
 
-<!-- Enhanced animated streak stats with custom styling -->
+<br>
+
+<!-- Fixed Enhanced animated streak stats -->
 <div align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=navi-04&theme=radical&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="GitHub Streak" width="70%">
@@ -144,10 +145,11 @@
 
 <div align="center">
   <a href="https://github.com/navi-04/exam-hall-allocation">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=navi-04&repo=exam-hall-allocation&theme=radical&hide_border=true" alt="Exam Hall Allocation">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=navi-04&repo=exam-hall-allocation&theme=radical&hide_border=true" alt="Exam Hall Allocation" width="48%">
   </a>
+  
   <a href="https://github.com/navi-04/react-projects">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=navi-04&repo=react-projects&theme=radical&hide_border=true" alt="React Projects">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=navi-04&repo=react-projects&theme=radical&hide_border=true" alt="React Projects" width="48%">
   </a>
 </div>
 
@@ -157,31 +159,30 @@
 ## 🏆 Certifications & Achievements
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img width="100" src="https://img.icons8.com/color/96/000000/certificate.png" alt="Certificate">
-        <br>
-        <b>Ethical Hacking</b>
-        <br>
-        CompTIA Security+
-      </td>
-      <td align="center">
-        <img width="100" src="https://img.icons8.com/color/96/000000/certificate.png" alt="Certificate">
-        <br>
-        <b>React Developer</b>
-        <br>
-        Frontend Masters
-      </td>
-      <td align="center">
-        <img width="100" src="https://img.icons8.com/color/96/000000/certificate.png" alt="Certificate">
-        <br>
-        <b>Python Expert</b>
-        <br>
-        Coursera
-      </td>
-    </tr>
-  </table>
+  <!-- Fixed certificate layout with simpler structure -->
+  <div style="display: inline-block; width: 30%; text-align: center; margin: 10px;">
+    <img width="80" src="https://img.icons8.com/color/96/000000/certificate.png" alt="Certificate">
+    <br>
+    <b>Ethical Hacking</b>
+    <br>
+    CompTIA Security+
+  </div>
+  
+  <div style="display: inline-block; width: 30%; text-align: center; margin: 10px;">
+    <img width="80" src="https://img.icons8.com/color/96/000000/certificate.png" alt="Certificate">
+    <br>
+    <b>React Developer</b>
+    <br>
+    Frontend Masters
+  </div>
+  
+  <div style="display: inline-block; width: 30%; text-align: center; margin: 10px;">
+    <img width="80" src="https://img.icons8.com/color/96/000000/certificate.png" alt="Certificate">
+    <br>
+    <b>Python Expert</b>
+    <br>
+    Coursera
+  </div>
 </div>
 
 <!-- Animated divider -->
