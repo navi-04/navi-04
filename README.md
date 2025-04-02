@@ -1,27 +1,26 @@
-<div align="center">
-  <!-- Enhanced header with more lines and faster animation -->
+<!-- Header with typing animation -->
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2500&pause=800&color=0E75B6&center=true&vCenter=true&width=600&height=100&lines=Hi+I'm+Naveenraj+Thiyagarajan;White+Hat+Enthusiast;Developer+%7C+Ethical+Hacker+%7C+AI+Explorer;Turning+Coffee+into+Code;Breaking+Systems+to+Secure+Them" alt="Typing SVG" />
-  
-  <!-- Animated profile view counter -->
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=navi-04&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="profile views">
-  </p>
-  
-  <!-- Enhanced trophies with better theme -->
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=navi-04&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="profile views">
+</p>
+
+<p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=navi-04&theme=algolia&row=1&column=6&margin-w=15&no-frame=true" alt="trophies" />
   </a>
-</div>
+</p>
 
 <!-- Animated divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>
 
 ## 🧑‍💻 About Me
 
-<!-- Fixed table with correct Markdown code block -->
-<div>
-  <img align="right" alt="Coding" width="320" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
-</div>
+<img align="right" alt="Coding" width="320" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
 ```python
 class Naveenraj:
@@ -38,7 +37,9 @@ class Naveenraj:
 ```
 
 <!-- Animated divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>
 
 ## 🛠️ Tech Arsenal
 
@@ -83,144 +84,153 @@ class Naveenraj:
 </details>
 
 <!-- Animated divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>
 
 ## 💪 Skill Proficiency
 
-<div align="center">
-  <h3>Frontend Development</h3>
-  <img src="https://progress-bar.dev/90/?width=500&title=HTML" alt="HTML Progress">
-  <br>
-  <img src="https://progress-bar.dev/85/?width=500&title=CSS" alt="CSS Progress">
-  <br>
-  <img src="https://progress-bar.dev/80/?width=500&title=JavaScript" alt="JavaScript Progress">
-  <br>
-  <img src="https://progress-bar.dev/75/?width=500&title=React" alt="React Progress">
-  
-  <h3>Backend Development</h3>
-  <img src="https://progress-bar.dev/85/?width=500&title=Python" alt="Python Progress">
-  <br>
-  <img src="https://progress-bar.dev/80/?width=500&title=Java" alt="Java Progress">
-  <br>
-  <img src="https://progress-bar.dev/70/?width=500&title=Node.js" alt="Node.js Progress">
-  
-  <h3>Security Skills</h3>
-  <img src="https://progress-bar.dev/95/?width=500&title=Ethical%20Hacking" alt="Ethical Hacking Progress">
-  <br>
-  <img src="https://progress-bar.dev/90/?width=500&title=Network%20Security" alt="Network Security Progress">
-  <br>
-  <img src="https://progress-bar.dev/85/?width=500&title=Security%20Analysis" alt="Security Analysis Progress">
-</div>
+### Frontend Development
+![HTML](https://progress-bar.dev/90/?width=500&title=HTML)  
+![CSS](https://progress-bar.dev/85/?width=500&title=CSS)  
+![JavaScript](https://progress-bar.dev/80/?width=500&title=JavaScript)  
+![React](https://progress-bar.dev/75/?width=500&title=React)  
+
+### Backend Development
+![Python](https://progress-bar.dev/85/?width=500&title=Python)  
+![Java](https://progress-bar.dev/80/?width=500&title=Java)  
+![Node.js](https://progress-bar.dev/70/?width=500&title=Node.js)  
+
+### Security Skills
+![Ethical Hacking](https://progress-bar.dev/95/?width=500&title=Ethical%20Hacking)  
+![Network Security](https://progress-bar.dev/90/?width=500&title=Network%20Security)  
+![Security Analysis](https://progress-bar.dev/85/?width=500&title=Security%20Analysis)  
 
 <!-- Animated divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <!-- Fixed GitHub Stats Card with proper dimensions -->
+<p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=navi-04&show_icons=true&locale=en&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=navi-04&show_icons=true&locale=en&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats">
   </a>
-  
-  <!-- Fixed Most Used Languages Card with proper dimensions -->
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=navi-04&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="Most Used Languages" width="48%">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=navi-04&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="Most Used Languages">
   </a>
-</div>
+</p>
 
-<br>
-
-<!-- Fixed Enhanced animated streak stats -->
-<div align="center">
+<p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=navi-04&theme=radical&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="GitHub Streak" width="70%">
+    <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=navi-04&theme=radical&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="GitHub Streak">
   </a>
-</div>
+</p>
 
 <!-- Animated divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>
 
 ## 🚀 Latest Projects
 
-<div align="center">
+<p align="center">
   <a href="https://github.com/navi-04/exam-hall-allocation">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=navi-04&repo=exam-hall-allocation&theme=radical&hide_border=true" alt="Exam Hall Allocation" width="48%">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=navi-04&repo=exam-hall-allocation&theme=radical&hide_border=true" alt="Exam Hall Allocation">
   </a>
-  
   <a href="https://github.com/navi-04/react-projects">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=navi-04&repo=react-projects&theme=radical&hide_border=true" alt="React Projects" width="48%">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=navi-04&repo=react-projects&theme=radical&hide_border=true" alt="React Projects">
   </a>
-</div>
+</p>
 
 <!-- Animated divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>
 
 ## 🏆 Certifications & Achievements
 
-<div align="center">
-  <!-- Fixed certificate layout with simpler structure -->
-  <div style="display: inline-block; width: 30%; text-align: center; margin: 10px;">
+<p align="center">
+  <kbd>
+    <br>
     <img width="80" src="https://img.icons8.com/color/96/000000/certificate.png" alt="Certificate">
     <br>
     <b>Ethical Hacking</b>
     <br>
     CompTIA Security+
-  </div>
-  
-  <div style="display: inline-block; width: 30%; text-align: center; margin: 10px;">
+    <br>
+    <br>
+  </kbd>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <kbd>
+    <br>
     <img width="80" src="https://img.icons8.com/color/96/000000/certificate.png" alt="Certificate">
     <br>
     <b>React Developer</b>
     <br>
     Frontend Masters
-  </div>
-  
-  <div style="display: inline-block; width: 30%; text-align: center; margin: 10px;">
+    <br>
+    <br>
+  </kbd>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <kbd>
+    <br>
     <img width="80" src="https://img.icons8.com/color/96/000000/certificate.png" alt="Certificate">
     <br>
     <b>Python Expert</b>
     <br>
     Coursera
-  </div>
-</div>
+    <br>
+    <br>
+  </kbd>
+</p>
 
 <!-- Animated divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>
 
 ## 🔗 Connect With Me
 
-<div align="center">
+<p align="center">
   <a href="https://twitter.com/navithiyagu" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
   </a>
+  &nbsp;
   <a href="https://instagram.com/naveenraj.thiyagarajan" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
+  &nbsp;
   <a href="https://www.hackerrank.com/naveenrajthiyag1" target="_blank">
     <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank">
   </a>
+  &nbsp;
   <a href="https://www.leetcode.com/navithiyag" target="_blank">
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode">
   </a>
+  &nbsp;
   <a href="mailto:naveenrajthiyagarajan6@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
-</div>
+</p>
 
 <!-- Animated divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>
 
 ## 💖 Support Me
 
-<div align="center">
-  <p>If you like my work, consider buying me a coffee!</p>
+<p align="center">
+  If you like my work, consider buying me a coffee!
+  <br><br>
   <a href="https://www.buymeacoffee.com/naveenraj" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="200">
   </a>
-</div>
+</p>
 
 <!-- Animated footer -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake-dark.svg" width="100%">
-</div>
+<p align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake-dark.svg">
+</p>
