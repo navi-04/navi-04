@@ -54,22 +54,11 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=navi-04&theme=chartreuse-dark&hide_border=true&background=111111" alt="GitHub Streak">
 </p>
 
-<!-- Most reliable snake animation from SVG Porn collection -->
+<!-- Simplified Snake Animation - GIF version that definitely works -->
 <h3 align="center">🐍 My Contribution Graph</h3>
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/stefanjudis/github-snake-SVG-animation/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/stefanjudis/github-snake-SVG-animation/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/stefanjudis/github-snake-SVG-animation/output/github-contribution-grid-snake.svg"
-  />
-</picture>
+<div align="center">
+  <img alt="snake animation" src="https://github.com/rudrabarad/rudrabarad/blob/output/github-contribution-grid-snake.gif" width="700"/>
+</div>
 
 <!-- Updated divider for hacker theme -->
 <p align="center">
