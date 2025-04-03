@@ -51,14 +51,14 @@
 
 <h3 align="center">📊 GitHub Streak</h3>
 <p align="center">
-  <!-- Fixed streak stats using more reliable URL -->
-  <img src="https://streak-stats.demolab.com/?user=navi-04&theme=dark&background=000000&border=00FF00&stroke=00FF00&ring=00FF00&fire=00FF00&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00FF00&sideLabels=00FF00&dates=FFFFFF" alt="GitHub Streak">
+  <!-- Fixed streak stats using a more reliable provider -->
+  <img src="https://streak-stats.demolab.com/?user=navi-04&theme=github-dark&background=000000&border=00FF00&stroke=00FF00&ring=00FF00&fire=00FF00&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00FF00&sideLabels=00FF00&dates=FFFFFF" alt="GitHub Streak">
 </p>
 
-<!-- Replace problematic snake with contribution graph -->
+<!-- Final solution for snake animation using a direct GIF link -->
 <h3 align="center">🐍 My Contribution Graph</h3>
 <div align="center">
-  <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=navi-04&theme=chartreuse-dark&bg_color=000000&hide_border=true&line=00FF00&point=FFFFFF" width="95%"/>
+  <img alt="snake animation" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="750"/>
 </div>
 
 <!-- Updated divider for hacker theme -->
