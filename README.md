@@ -1,236 +1,73 @@
-<!-- Header with typing animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2500&pause=800&color=0E75B6&center=true&vCenter=true&width=600&height=100&lines=Hi+I'm+Naveenraj+Thiyagarajan;White+Hat+Enthusiast;Developer+%7C+Ethical+Hacker+%7C+AI+Explorer;Turning+Coffee+into+Code;Breaking+Systems+to+Secure+Them" alt="Typing SVG" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=navi-04&label=Views%20on%20Me&color=0e75b6&style=flat" alt="navi-04" /> </p>
+<h1 align="center">Hey <img src="https://github.com/nixin72/nixin72/blob/master/wave.gif" height="60px">This is Naveenraj Thiyagarajan👨🏻‍💻</h1>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+![readmebox](https://github.com/wahyudesu/wahyudesu/assets/96912274/301fe236-e965-4654-b32a-6351980d1628)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<h3 align="left">💫 Myself :</h3>
+<p align="center">Hey Guys, I'm Naveenraj Thiyagarajan, a passionate White Hat enthusiast from India. I'm currently working on Exam Hall Allocation and learning React.js. I'm looking to collaborate on White Hat projects and seeking help with AI. Feel free to ask me about React, Ethical Hacking, or AI. Connect with me to collaborate on exciting projects!!!  
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<h2 align="center">⚡Quote of the day </h2>
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Readme Quotes"/>
+</div> 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<a href="https://github.com/navi-04/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=navi-04" />
+</a>
+<a href="https://github.com/navi-04/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=navi-04&layout=compact&langs_count=8&card_width=300" />
+</a>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<h3 align="center">📊 GitHub Streak</h3>
+<p align = "center">
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=navi-04&theme=tokyonight&hide_border=true&include_all_commits=true&line_height=27">
 </p>
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=navi-04&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="profile views">
+  <a href="https://twitter.com/navithiyagu" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/twitter.png" width="50" /></a>
+  &nbsp;&nbsp;
+  <a href="https://instagram.com/naveenraj.thiyagarajan" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/instagram.png" width="50" /></a>
+  &nbsp;&nbsp;
+  <a href="mailto:naveenrajthiyagarajan6@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png" width="50" /></a>
+  &nbsp;&nbsp;
+  <a href="https://www.hackerrank.com/naveenrajthiyag1" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/2x/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-shadow-tal-revivo.png" width="50" /></a>
+  &nbsp;&nbsp;
+  <a href="https://www.leetcode.com/navithiyag" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/2x/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" width="50" /></a>
 </p>
-
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=navi-04&theme=algolia&row=1&column=6&margin-w=15&no-frame=true" alt="trophies" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
-
-<!-- Animated divider -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<h2 align="center">⚡Activity Graph:</h2>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=navi-04&theme=synthwave-84"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<h2 align="center">⚡My Trophies:</h2>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=navi-04" alt="navi-04" /></a> </p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<h2 align="center">⚡Languages and Tools:</h2>
+<p align="left"> 
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+  <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> 
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
+  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
+  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
+  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
+  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
 </p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<h2 align="center">⚡Fun Fact:</h2>
+<p align="center">I am lazy😅</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🧑‍💻 About Me
 
-<img align="right" alt="Coding" width="320" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
-
-```python
-class Naveenraj:
-    def __init__(self):
-        self.current_work = "Exam Hall Allocation"
-        self.learning = "React.js"
-        self.looking_to_collaborate = "White Hat Projects"
-        self.seeking_help_with = "AI"
-        self.email = "naveenrajthiyagarajan6@gmail.com"
-        self.fun_fact = "I am lazy😅"
-    
-    def ask_me_about(self):
-        return ["React", "Ethical Hacking", "AI"]
-```
-
-<!-- Animated divider -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</p>
-
-## 🛠️ Tech Arsenal
-
-<details open>
-  <summary>📱 Frontend</summary>
-  <br>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
-</details>
-
-<details>
-  <summary>⚙️ Backend & Databases</summary>
-  <br>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby">
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
-</details>
-
-<details>
-  <summary>🧠 AI & ML</summary>
-  <br>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
-  <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
-  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn">
-</details>
-
-<details>
-  <summary>🔧 Other Tools</summary>
-  <br>
-  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android">
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino">
-</details>
-
-<!-- Animated divider -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</p>
-
-## 💪 Skill Proficiency
-
-### Frontend Development
-![HTML](https://progress-bar.dev/90/?width=500&title=HTML)  
-![CSS](https://progress-bar.dev/85/?width=500&title=CSS)  
-![JavaScript](https://progress-bar.dev/80/?width=500&title=JavaScript)  
-![React](https://progress-bar.dev/75/?width=500&title=React)  
-
-### Backend Development
-![Python](https://progress-bar.dev/85/?width=500&title=Python)  
-![Java](https://progress-bar.dev/80/?width=500&title=Java)  
-![Node.js](https://progress-bar.dev/70/?width=500&title=Node.js)  
-
-### Security Skills
-![Ethical Hacking](https://progress-bar.dev/95/?width=500&title=Ethical%20Hacking)  
-![Network Security](https://progress-bar.dev/90/?width=500&title=Network%20Security)  
-![Security Analysis](https://progress-bar.dev/85/?width=500&title=Security%20Analysis)  
-
-<!-- Animated divider -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</p>
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=navi-04&show_icons=true&locale=en&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats">
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=navi-04&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="Most Used Languages">
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=navi-04&theme=radical&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="GitHub Streak">
-  </a>
-</p>
-
-<!-- Animated divider -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</p>
-
-## 🚀 Latest Projects
-
-<p align="center">
-  <a href="https://github.com/navi-04/exam-hall-allocation">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=navi-04&repo=exam-hall-allocation&theme=radical&hide_border=true" alt="Exam Hall Allocation">
-  </a>
-  <a href="https://github.com/navi-04/react-projects">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=navi-04&repo=react-projects&theme=radical&hide_border=true" alt="React Projects">
-  </a>
-</p>
-
-<!-- Animated divider -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</p>
-
-## 🏆 Certifications & Achievements
-
-<p align="center">
-  <kbd>
-    <br>
-    <img width="80" src="https://img.icons8.com/color/96/000000/certificate.png" alt="Certificate">
-    <br>
-    <b>Ethical Hacking</b>
-    <br>
-    CompTIA Security+
-    <br>
-    <br>
-  </kbd>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <kbd>
-    <br>
-    <img width="80" src="https://img.icons8.com/color/96/000000/certificate.png" alt="Certificate">
-    <br>
-    <b>React Developer</b>
-    <br>
-    Frontend Masters
-    <br>
-    <br>
-  </kbd>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <kbd>
-    <br>
-    <img width="80" src="https://img.icons8.com/color/96/000000/certificate.png" alt="Certificate">
-    <br>
-    <b>Python Expert</b>
-    <br>
-    Coursera
-    <br>
-    <br>
-  </kbd>
-</p>
-
-<!-- Animated divider -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</p>
-
-## 🔗 Connect With Me
-
-<p align="center">
-  <a href="https://twitter.com/navithiyagu" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
-  </a>
-  &nbsp;
-  <a href="https://instagram.com/naveenraj.thiyagarajan" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-  &nbsp;
-  <a href="https://www.hackerrank.com/naveenrajthiyag1" target="_blank">
-    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank">
-  </a>
-  &nbsp;
-  <a href="https://www.leetcode.com/navithiyag" target="_blank">
-    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode">
-  </a>
-  &nbsp;
-  <a href="mailto:naveenrajthiyagarajan6@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-</p>
-
-<!-- Animated divider --> 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</p>
-
-## 💖 Support Me
-
-<p align="center">
-  If you like my work, consider buying me a coffee!
-  <br><br>
-  <a href="https://www.buymeacoffee.com/naveenraj" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="200">
-  </a>
-</p>
-
-<!-- Animated footer -->
-<p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake-dark.svg">
-</p>
