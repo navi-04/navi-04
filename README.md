@@ -54,11 +54,22 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=navi-04&theme=chartreuse-dark&hide_border=true&background=111111" alt="GitHub Streak">
 </p>
 
-<!-- Fixed Snake Animation - Using a reliable public animation -->
+<!-- Most reliable snake animation from SVG Porn collection -->
 <h3 align="center">🐍 My Contribution Graph</h3>
-<p align="center">
-  <img alt="snake eating contribution graph" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-</p>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/stefanjudis/github-snake-SVG-animation/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/stefanjudis/github-snake-SVG-animation/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/stefanjudis/github-snake-SVG-animation/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 
 <!-- Updated divider for hacker theme -->
 <p align="center">
