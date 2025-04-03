@@ -54,16 +54,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=navi-04&theme=chartreuse-dark&hide_border=true&background=111111" alt="GitHub Streak">
 </p>
 
-<!-- Updated snake animation with proper user contributions -->
+<!-- Final solution for snake animation using a direct GIF link -->
 <h3 align="center">🐍 My Contribution Graph</h3>
 <div align="center">
-  <!-- Option 1: Static but reliable snake animation -->
-  <img alt="snake animation" src="https://github.com/navi-04/navi-04/blob/output/github-snake-dark.svg" width="750"/>
-  
-  <!-- Option 2: Fallback if the above doesn't work -->
-  <!--
-  <img alt="contribution graph" src="https://github-readme-activity-graph.vercel.app/graph?username=navi-04&theme=github-compact&hide_border=true&area=true" width="750"/>
-  -->
+  <img alt="snake animation" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="750"/>
 </div>
 
 <!-- Updated divider for hacker theme -->
