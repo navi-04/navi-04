@@ -51,21 +51,11 @@
 
 <h3 align="center">📊 GitHub Streak</h3>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=navi-04&theme=chartreuse-dark&hide_border=true&background=111111" alt="GitHub Streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=navi-04&theme=chartreuse-dark&hide_border=true&background=111111" alt="GitHub Streak">
 </p>
 
-<!-- Fixed Snake Animation -->
+<!-- Simplified Snake Animation that actually works -->
 <h3 align="center">🐍 My Contribution Graph</h3>
-<p align="center">
-  <!-- Using a pre-generated snake from a public service instead of relying on the GitHub Action -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  </picture>
-</p>
-
-<!-- Alternative Snake (if the above doesn't work) -->
 <p align="center">
   <img src="https://github.com/1999AZZAR/1999AZZAR/raw/main/resources/img/grid-snake.svg" alt="snake" />
 </p>
