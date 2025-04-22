@@ -1,3 +1,8 @@
+<!-- NEW: Matrix-style Animation Header -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=navi-04&label=Views%20on%20Me&color=00ff00&style=flat" alt="navi-04" /> </p>
 <h1 align="center">Hey <img src="https://github.com/nixin72/nixin72/blob/master/wave.gif" height="60px"> This is Naveenraj Thiyagarajan 👨🏻‍💻</h1>
 
@@ -15,6 +20,11 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </p>
+
+<!-- NEW: Terminal Typing Animation -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="500">
+</div>
 
 <!-- NEW: Animated About Me section with terminal effect -->
 <h3 align="left">💫 Myself :</h3>
@@ -52,6 +62,15 @@
   <img src="https://user-images.githubusercontent.com/74038190/238200441-1a797f46-efe4-41e6-9e75-5303e1bbcbfa.gif" width="100">
 </div>
 
+<!-- NEW: Animated Tech Icons -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-9273-f3ad280238a6.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212281756-e6edc4cd-5c14-4168-8231-e5bbfb95ee61.gif" width="120">
+</p>
+
 <!-- Updated GitHub stats with hacker theme -->
 <div align="center">
   <a href="https://github.com/navi-04/github-readme-stats">
@@ -72,10 +91,23 @@
   <img src="https://streak-stats.demolab.com/?user=navi-04&theme=highcontrast&hide_border=true&stroke=00FF00&ring=00FF00&fire=00FF00&currStreakLabel=00FF00" alt="GitHub Streak">
 </p>
 
-<!-- Final solution for snake animation using a direct GIF link -->
+<!-- Snake animation -->
 <h3 align="center">🐍 My Contribution Graph</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
+<!-- NEW: 3D GitHub Stats Animation -->
+<h3 align="center">🔄 3D Contribution Graph</h3>
+<p align="center">
+  <a href="https://github.com/navi-04">
+    <img src="https://github-profile-3d-contrib.vercel.app/api?username=navi-04&theme=chartreuse-dark" width="600"/>
+  </a>
+</p>
+
+<!-- NEW: Spinning GitHub Logo Animation -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
 </p>
 
 <!-- Updated divider for hacker theme -->
@@ -159,6 +191,11 @@
 
 <h2 align="center">⚡Fun Fact:</h2>
 <p align="center">I am lazy😅 but I can hack into your system before you finish reading this.</p>
+
+<!-- NEW: Hacker Animation -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/236304340-d0a74aee-ec7a-4481-8721-2ef148f9db04.gif" width="400">
+</p>
 
 <!-- Animated hacker footer -->
 <p align="center">
