@@ -1,11 +1,5 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=navi-04&label=Views%20on%20Me&color=00ff00&style=flat" alt="navi-04" /> </p>
-
-<!-- NEW: Animated typing header -->
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=30&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=600&height=100&lines=Hey+There!+%F0%9F%91%8B;I'm+Naveenraj+Thiyagarajan;White+Hat+Enthusiast;Ethical+Hacker+%7C+Developer;Breaking+Systems+to+Secure+Them" alt="Typing SVG" />
-  </a>
-</h1>
+<h1 align="center">Hey <img src="https://github.com/nixin72/nixin72/blob/master/wave.gif" height="60px"> This is Naveenraj Thiyagarajan 👨🏻‍💻</h1>
 
 <!-- Updated divider for hacker theme -->
 <p align="center">
@@ -24,10 +18,7 @@
 
 <!-- NEW: Animated About Me section with terminal effect -->
 <h3 align="left">💫 Myself :</h3>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00FF00&center=true&multiline=true&width=600&height=100&lines=Hey+Guys%2C+I'm+Naveenraj+Thiyagarajan;White+Hat+enthusiast+%7C+Currently+learning+React.js;Looking+to+collaborate+on+White+Hat+projects" alt="About Me Typing" />
-</p>
-<p align="center">I'm currently working on Exam Hall Allocation and seeking help with AI. Feel free to ask me about React, Ethical Hacking, or AI. Connect with me to collaborate on exciting projects!!!</p>  
+<p align="center">Hey Guys, I'm Naveenraj Thiyagarajan, a passionate White Hat enthusiast from India. I'm currently working on Exam Hall Allocation and learning React.js. I'm looking to collaborate on White Hat projects and seeking help with AI. Feel free to ask me about React, Ethical Hacking, or AI. Connect with me to collaborate on exciting projects!!!  
 
 <!-- Updated divider for hacker theme -->
 <p align="center">
@@ -78,15 +69,14 @@
 
 <h3 align="center">📊 GitHub Streak</h3>
 <p align="center">
-  <!-- Fixed streak stats using a more reliable provider -->
-  <img src="https://streak-stats.demolab.com/?user=navi-04&theme=github-dark&background=000000&border=00FF00&stroke=00FF00&ring=00FF00&fire=00FF00&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00FF00&sideLabels=00FF00&dates=FFFFFF" alt="GitHub Streak">
+  <img src="https://streak-stats.demolab.com/?user=navi-04&theme=highcontrast&hide_border=true&stroke=00FF00&ring=00FF00&fire=00FF00&currStreakLabel=00FF00" alt="GitHub Streak">
 </p>
 
 <!-- Final solution for snake animation using a direct GIF link -->
 <h3 align="center">🐍 My Contribution Graph</h3>
-<div align="center">
-  <img alt="snake animation" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="750"/>
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
 
 <!-- Updated divider for hacker theme -->
 <p align="center">
@@ -119,24 +109,17 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </p>
 
-<!-- NEW: Animated social media section with hovering icons -->
 <h3 align="center">🔗 Connect With Me</h3>
 <p align="center">
-  <a href="https://twitter.com/navithiyagu" target="_blank">
-    <img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" width="80">
-  </a>
-  <a href="https://instagram.com/naveenraj.thiyagarajan" target="_blank">
-    <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="80">
-  </a>
-  <a href="mailto:naveenrajthiyagarajan6@gmail.com" target="_blank">
-    <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="80">
-  </a>
-  <a href="https://www.hackerrank.com/naveenrajthiyag1" target="_blank">
-    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/344/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-shadow-tal-revivo.png" width="80">
-  </a>
-  <a href="https://www.leetcode.com/navithiyag" target="_blank">
-    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/344/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" width="80">
-  </a>
+  <a href="https://twitter.com/navithiyagu" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png" width="50" /></a>
+  &nbsp;&nbsp;
+  <a href="https://instagram.com/naveenraj.thiyagarajan" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/48/000000/instagram-new--v1.png" width="50" /></a>
+  &nbsp;&nbsp;
+  <a href="mailto:naveenrajthiyagarajan6@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/48/000000/gmail--v1.png" width="50" /></a>
+  &nbsp;&nbsp;
+  <a href="https://www.hackerrank.com/naveenrajthiyag1" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png" width="50" /></a>
+  &nbsp;&nbsp;
+  <a href="https://www.leetcode.com/navithiyag" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" width="50" /></a>
 </p>
 
 <!-- Updated divider for hacker theme -->
@@ -176,11 +159,6 @@
 
 <h2 align="center">⚡Fun Fact:</h2>
 <p align="center">I am lazy😅 but I can hack into your system before you finish reading this.</p>
-
-<!-- NEW: Cool matrix animation -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-</p>
 
 <!-- Animated hacker footer -->
 <p align="center">
