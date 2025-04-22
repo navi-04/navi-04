@@ -1,5 +1,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=navi-04&label=Views%20on%20Me&color=00ff00&style=flat" alt="navi-04" /> </p>
-<h1 align="center">Hey <img src="https://github.com/nixin72/nixin72/blob/master/wave.gif" height="60px"> This is Naveenraj Thiyagarajan 👨🏻‍💻</h1>
+
+<!-- NEW: Animated typing header -->
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=30&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=600&height=100&lines=Hey+There!+%F0%9F%91%8B;I'm+Naveenraj+Thiyagarajan;White+Hat+Enthusiast;Ethical+Hacker+%7C+Developer;Breaking+Systems+to+Secure+Them" alt="Typing SVG" />
+  </a>
+</h1>
 
 <!-- Updated divider for hacker theme -->
 <p align="center">
@@ -16,8 +22,12 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </p>
 
+<!-- NEW: Animated About Me section with terminal effect -->
 <h3 align="left">💫 Myself :</h3>
-<p align="center">Hey Guys, I'm Naveenraj Thiyagarajan, a passionate White Hat enthusiast from India. I'm currently working on Exam Hall Allocation and learning React.js. I'm looking to collaborate on White Hat projects and seeking help with AI. Feel free to ask me about React, Ethical Hacking, or AI. Connect with me to collaborate on exciting projects!!!  
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00FF00&center=true&multiline=true&width=600&height=100&lines=Hey+Guys%2C+I'm+Naveenraj+Thiyagarajan;White+Hat+enthusiast+%7C+Currently+learning+React.js;Looking+to+collaborate+on+White+Hat+projects" alt="About Me Typing" />
+</p>
+<p align="center">I'm currently working on Exam Hall Allocation and seeking help with AI. Feel free to ask me about React, Ethical Hacking, or AI. Connect with me to collaborate on exciting projects!!!</p>  
 
 <!-- Updated divider for hacker theme -->
 <p align="center">
@@ -33,6 +43,23 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </p>
+
+<!-- NEW: Animated tech stack with floating icons -->
+<h2 align="center">💻 Tech Stack</h2>
+<p align="center">
+  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="70">
+  <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="70">
+  <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="70">
+  <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="70">
+  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="90">
+</p>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/238200426-29fd6286-4e7b-4d6c-818f-c4765d5e39a9.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/238200428-67f477ed-6624-42da-99f0-1a7b1a16eecb.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/238200433-3fb2cdf6-8920-462e-87a4-95affc6c7a82.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/238200437-de9b4b92-9421-4066-b6e1-e7d3c2867eff.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/238200441-1a797f46-efe4-41e6-9e75-5303e1bbcbfa.gif" width="100">
+</div>
 
 <!-- Updated GitHub stats with hacker theme -->
 <div align="center">
@@ -66,21 +93,50 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </p>
 
-<h3 align="center">🔗 Connect With Me</h3>
+<!-- NEW: Animated skills progress bars -->
+<h2 align="center">⚡ Skills</h2>
 <p align="center">
-  <a href="https://twitter.com/navithiyagu" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png" width="50" /></a>
-  &nbsp;&nbsp;
-  <a href="https://instagram.com/naveenraj.thiyagarajan" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/48/000000/instagram-new--v1.png" width="50" /></a>
-  &nbsp;&nbsp;
-  <a href="mailto:naveenrajthiyagarajan6@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/48/000000/gmail--v1.png" width="50" /></a>
-  &nbsp;&nbsp;
-  <a href="https://www.hackerrank.com/naveenrajthiyag1" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png" width="50" /></a>
-  &nbsp;&nbsp;
-  <a href="https://www.leetcode.com/navithiyag" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" width="50" /></a>
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="100">
+</p>
+<div align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black">
+  <img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black">
+  <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white">
+  <img src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white">
+</div>
+<br />
+<div align="center">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white">
+  <img src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white">
+  <img src="https://img.shields.io/badge/Ruby-CC342D.svg?style=for-the-badge&logo=Ruby&logoColor=white">
+</div>
+
+<!-- Updated divider for hacker theme -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </p>
 
+<!-- NEW: Animated social media section with hovering icons -->
+<h3 align="center">🔗 Connect With Me</h3>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ff00&height=65&section=footer"/>
+  <a href="https://twitter.com/navithiyagu" target="_blank">
+    <img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" width="80">
+  </a>
+  <a href="https://instagram.com/naveenraj.thiyagarajan" target="_blank">
+    <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="80">
+  </a>
+  <a href="mailto:naveenrajthiyagarajan6@gmail.com" target="_blank">
+    <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="80">
+  </a>
+  <a href="https://www.hackerrank.com/naveenrajthiyag1" target="_blank">
+    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/344/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-shadow-tal-revivo.png" width="80">
+  </a>
+  <a href="https://www.leetcode.com/navithiyag" target="_blank">
+    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/344/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" width="80">
+  </a>
 </p>
 
 <!-- Updated divider for hacker theme -->
@@ -108,26 +164,10 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </p>
 
-<h2 align="center">⚡Languages and Tools:</h2>
-<p align="center"> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-  <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
-</p>
+<!-- NEW: Animated coding GIF -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="500">
+</div>
 
 <!-- Updated divider for hacker theme -->
 <p align="center">
@@ -136,6 +176,11 @@
 
 <h2 align="center">⚡Fun Fact:</h2>
 <p align="center">I am lazy😅 but I can hack into your system before you finish reading this.</p>
+
+<!-- NEW: Cool matrix animation -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+</p>
 
 <!-- Animated hacker footer -->
 <p align="center">

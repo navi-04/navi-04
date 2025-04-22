@@ -22,7 +22,7 @@ jobs:
       - name: Generate snake animation
         uses: Platane/snk@v3
         with:
-          github_user_name: navi-04  # Fixed: removed ${} syntax which was causing issues
+          github_user_name: ${{navi-04}}  # Fixed: removed ${} syntax which was causing issues
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
