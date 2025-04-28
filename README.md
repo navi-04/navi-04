@@ -1,4 +1,4 @@
-old<p align="left"> <img src="https://komarev.com/ghpvc/?username=navi-04&label=Views%20on%20Me&color=00ff00&style=flat" alt="navi-04" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=navi-04&label=Views%20on%20Me&color=00ff00&style=flat" alt="navi-04" /> </p>
 <h1 align="center">Hey <img src="https://github.com/nixin72/nixin72/blob/master/wave.gif" height="60px"> This is Naveenraj Thiyagarajan 👨🏻‍💻</h1>
 
 <!-- Updated divider for hacker theme -->
