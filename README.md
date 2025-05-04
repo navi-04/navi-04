@@ -127,7 +127,7 @@
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> < img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
 </p>
@@ -144,125 +144,5 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/240815616-7b282ec6-fcc3-4600-90a7-2c3140549f58.gif" width="400">
 </p>
-
-<!-- NEW: Cybersecurity Skills Radar Chart -->
-<h2 align="center">🛡️ Security Skills Radar</h2>
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=navi-04&layout=compact&langs_count=6&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF00&icon_color=00FF00" alt="Top Languages"/>
-  <br><br>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,java,mongodb,mysql,linux&theme=dark&perline=5" />
-</p>
-
-<!-- NEW: Projects Showcase -->
-<h2 align="center">🔐 Hacking Projects</h2>
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <h3 align="center">Exam Hall Allocation</h3>
-        <p align="center">
-          <img src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif" width="100%" alt="Exam Hall Allocation Project"/>
-          <br><br>
-          <a href="https://github.com/navi-04/exam-hall-allocation">
-            <img src="https://img.shields.io/badge/Code-00FF00?style=for-the-badge&logo=github&logoColor=white"/>
-          </a>
-          <a href="#">
-            <img src="https://img.shields.io/badge/Demo-00FF00?style=for-the-badge&logo=vercel&logoColor=white"/>
-          </a>
-        </p>
-        <p align="center">
-          A smart system for allocating exam halls using advanced algorithms and security protocols
-        </p>
-      </td>
-      <td width="50%">
-        <h3 align="center">Security Analysis Tool</h3>
-        <p align="center">
-          <img src="https://i.imgur.com/VIpkUhH.gif" width="100%" alt="Security Analysis Tool"/>
-          <br><br>
-          <a href="#">
-            <img src="https://img.shields.io/badge/Code-00FF00?style=for-the-badge&logo=github&logoColor=white"/>
-          </a>
-          <a href="#">
-            <img src="https://img.shields.io/badge/Demo-00FF00?style=for-the-badge&logo=vercel&logoColor=white"/>
-          </a>
-        </p>
-        <p align="center">
-          Tool for analyzing system vulnerabilities and providing security recommendations
-        </p>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<!-- NEW: Currently Hacking Section -->
-<h2 align="center">⚔️ Currently Hacking</h2>
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284119-fbfd94d8-b35a-4d62-af84-b1b94e73a24a.gif" width="400">
-</div>
-
-<div align="center">
-  <table>
-    <tr>
-      <th>Target</th>
-      <th>Status</th>
-      <th>Tools</th>
-    </tr>
-    <tr>
-      <td>React.js Advanced Features</td>
-      <td>🔄 In Progress</td>
-      <td>React, Redux, GraphQL</td>
-    </tr>
-    <tr>
-      <td>Network Security Protocols</td>
-      <td>🔄 In Progress</td>
-      <td>Wireshark, Metasploit</td>
-    </tr>
-    <tr>
-      <td>AI Security Applications</td>
-      <td>🔜 Coming Soon</td>
-      <td>TensorFlow, Python</td>
-    </tr>
-  </table>
-</div>
-
-<!-- NEW: Hacking Timeline -->
-<h2 align="center">📅 Hacking Timeline</h2>
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="600">
-</div>
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">2021</td>
-      <td>Started journey in White Hat Hacking</td>
-    </tr>
-    <tr>
-      <td align="center">2022</td>
-      <td>Completed first major security project</td>
-    </tr>
-    <tr>
-      <td align="center">2023</td>
-      <td>Detected and reported 5+ vulnerabilities</td>
-    </tr>
-    <tr>
-      <td align="center">2024</td>
-      <td>Currently focusing on AI-based security solutions</td>
-    </tr>
-  </table>
-</div>
-
-<!-- NEW: Visitor Badge with hacker theme -->
-<p align="center">
-  <img src="https://profile-counter.glitch.me/{navi-04}/count.svg" alt="Visitor Count" />
-</p>
-
-<!-- NEW: Cool Binary Footer -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-</p>
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=435&lines=01001110+01000001+01010110+01000101+01000101+01001110+01010010+01000001+01001010" alt="Binary" />
-</div>
 
 
