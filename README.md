@@ -36,13 +36,6 @@ drwxr-xr-x  2 navi-04 navi-04  4096 Mar 10 2023 Security-Tools
 drwxr-xr-x  2 navi-04 navi-04  4096 Feb 15 2023 React-Projects
 ```
 
-## `$ contact --info`
-
-- Email: naveenrajthiyagarajan6@gmail.com
-- Twitter: [@navithiyagu](https://twitter.com/navithiyagu)
-- Instagram: [@naveenraj.thiyagarajan](https://instagram.com/naveenraj.thiyagarajan)
-- HackerRank: [naveenrajthiyag1](https://www.hackerrank.com/naveenrajthiyag1)
-- LeetCode: [navithiyag](https://www.leetcode.com/navithiyag)
 
 ## `$ github stats --summary`
 
