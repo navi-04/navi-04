@@ -64,7 +64,7 @@ Contribution Streak:
 Trophy Collection:
 ```
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=navi-04&theme=radical&no-frame=true&column=7&margin-w=15)](https://github.com/navi-04)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=navi-04&theme=algolia&no-frame=true&column=7&margin-w=15)](https://github.com/navi-04)
 
 </details>
 
