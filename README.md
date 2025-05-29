@@ -46,7 +46,32 @@ drwxr-xr-x  2 navi-04 navi-04  4096 Feb 15 2023 React-Projects
 
 ## `$ github stats --summary`
 
-![Stats Badge](https://img.shields.io/badge/Profile%20Views-0-brightgreen) ![Stats Badge](https://img.shields.io/badge/Total%20Stars-0-yellow) ![Stats Badge](https://img.shields.io/badge/Total%20Commits-0-blue) ![Stats Badge](https://img.shields.io/badge/Total%20PRs-0-blueviolet) ![Stats Badge](https://img.shields.io/badge/Total%20Issues-0-red)
+<details>
+<summary>View Stats</summary>
+
+```
+GitHub Stats Overview:
+```
+
+[![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=navi-04&theme=chartreuse-dark&show_icons=true&include_all_commits=true&hide_border=true)](https://github.com/navi-04)
+
+```
+Most Used Languages:
+```
+
+[![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=navi-04&layout=compact&langs_count=8&theme=chartreuse-dark&hide_border=true)](https://github.com/navi-04)
+
+```
+Contribution Streak:
+```
+
+[![Streak Stats](https://streak-stats.demolab.com/?user=navi-04&theme=matrix&background=000000&border=00FF00&stroke=00FF00&ring=00FF00&fire=00FF00&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00FF00&sideLabels=00FF00&dates=FFFFFF)](https://github.com/navi-04)
+
+</details>
+
+## `$ cat contribution-graph.txt`
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=navi-04&theme=chartreuse-dark&bg_color=111111&hide_border=true&line=00ff00&point=ffffff)](https://github.com/navi-04)
 
 ## `$ fortune | cowsay`
 
