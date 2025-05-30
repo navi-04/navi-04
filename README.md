@@ -58,7 +58,7 @@ Most Used Languages:
 Contribution Streak:
 ```
 
-[![Streak Stats](https://streak-stats.demolab.com/?user=navi-04&theme=radical&background=0D1117&border=30363D&stroke=30363D&ring=E4405F&fire=E4405F&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=E4405F&sideLabels=E4405F&dates=FFFFFF)](https://github.com/navi-04)
+[![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=navi-04&theme=radical&hide_border=true)](https://github.com/navi-04)
 
 ```
 Trophy Collection:
