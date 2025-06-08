@@ -46,31 +46,31 @@ drwxr-xr-x  2 navi-04 navi-04  4096 Feb 15 2023 React-Projects
 GitHub Stats Overview:
 ```
 
-[![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=navi-04&theme=radical&show_icons=true&include_all_commits=true&hide_border=true)](https://github.com/navi-04)
+[![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=navi-04&theme=radical&show_icons=true&include_all_commits=true&hide_border=true&count_private=true)](https://github.com/navi-04)
 
 ```
 Most Used Languages:
 ```
 
-[![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=navi-04&layout=compact&langs_count=8&theme=radical&hide_border=true)](https://github.com/navi-04)
+[![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=navi-04&layout=compact&langs_count=8&theme=radical&hide_border=true&count_private=true)](https://github.com/navi-04)
 
 ```
-Contribution Streak:
+Contribution Streak (Including Private):
 ```
 
-[![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=navi-04&theme=radical&hide_border=true)](https://github.com/navi-04)
+[![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=navi-04&theme=radical&hide_border=true&count_private=true)](https://github.com/navi-04)
 
 ```
 Trophy Collection:
 ```
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=navi-04&theme=algolia&no-frame=true&column=7&margin-w=15)](https://github.com/navi-04)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=navi-04&theme=algolia&no-frame=true&column=7&margin-w=15&count_private=true)](https://github.com/navi-04)
 
 </details>
 
 ## `$ cat contribution-graph.txt`
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=navi-04&theme=redical&bg_color=0D1117&hide_border=true&line=E4405F&point=ffffff)](https://github.com/navi-04)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=navi-04&theme=redical&bg_color=0D1117&hide_border=true&line=E4405F&point=ffffff&include_all_commits=true&count_private=true)](https://github.com/navi-04)
 
 ## `$ fortune | cowsay`
 
