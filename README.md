@@ -55,7 +55,7 @@ Most Used Languages:
 [![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=navi-04&layout=compact&langs_count=8&theme=radical&hide_border=true&count_private=true)](https://github.com/navi-04)
 
 ```
-Contribution Streak (Including Private):
+Contribution Streak (Including Private): 
 ```
 
 [![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=navi-04&theme=radical&hide_border=true&count_private=true)](https://github.com/navi-04)
