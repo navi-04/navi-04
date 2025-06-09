@@ -50,7 +50,7 @@ GitHub Stats Overview:
 
 ```
 Most Used Languages:
-```
+``` 
 
 [![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=navi-04&layout=compact&langs_count=8&theme=radical&hide_border=true&count_private=true)](https://github.com/navi-04)
  
