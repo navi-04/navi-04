@@ -12,7 +12,7 @@ and learning React.js. Looking to collaborate on security projects.
 ## `$ cat skills.txt`
 
 ### Languages
-`HTML` `CSS` `JavaScript` `Java` `Python` `Ruby`
+`HTML` `CSS` `JavaScript` `Java` `Python` `Java`
 
 ### Frameworks & Libraries
 `React.js` `Node.js` `TensorFlow`
@@ -70,7 +70,7 @@ Trophy Collection:
 
 ## `$ cat contribution-graph.txt`
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=navi-04&theme=redical&bg_color=0D1117&hide_border=true&line=E4405F&point=ffffff&include_all_commits=true&count_private=true)](https://github.com/navi-04)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=navi-04&theme=redical&bg_color=0D1117&hide_border=true&line=E4405F&point=ffffff&include_all_commits=true&count_private=true)](https://github.com/navi-04) 
 
 ## `$ fortune | cowsay` 
 
