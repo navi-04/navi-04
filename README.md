@@ -1,48 +1,39 @@
-# 👨‍💻 [ROOT ACCESS] NAVEENRAJ THIYAGARAJAN
+# NAVEENRAJ THIYAGARAJAN
 
-> [!CAUTION]
-> 🔐 Cybersecurity Specialist | 🧠 Ethical Hacker | 🛡️ Security Researcher
+> Cybersecurity Enthusiast | Developer | Ethical Hacker
 
-## `$ sudo -u naveenraj whoami --all`
-
-```bash
-uid=1337(naveenraj) gid=1337(hackers) groups=1337(hackers),27(sudo),1000(devs)
-Security Clearance: White Hat | Location: India
-Current Operation: Exam Hall Allocation Development
-Learning Vector: React.js | Advanced Penetration Techniques
-Mission Objective: Seeking collaborations on security projects
-```
-
-## `$ hexdump -C /usr/share/skills.bin | head -20`
-
-### 🔧 Languages
-`HTML5` `CSS3` `JavaScript` `Java` `Python` `Ruby`
-
-### 🧪 Frameworks & Libraries
-`React.js` `Node.js` `TensorFlow` `Kali Tools`
-
-### 🗄️ Databases & Infrastructure
-`MongoDB` `MySQL` `SQLite` `AWS` `Firebase`
-
-### 🛠️ Security Toolkit
-`Linux` `Metasploit` `Wireshark` `Burp Suite` `nmap` `hashcat`
-
-## `$ cat /etc/shadow | grep interests`
+## `$ whoami`
 
 ```
-react:$6$h4ck3r$F7Ccx2o:19386:0:99999:7:::
-ethical-hacking:$6$p3nt3st$uQGFDd:19386:0:99999:7:::
-artificial-intelligence:$6$4i$BVgSl:19386:0:99999:7:::
-cybersecurity:$6$s3cur1ty$k8je7:19386:0:99999:7:::
+White Hat enthusiast from India currently working on Exam Hall Allocation
+and learning React.js. Looking to collaborate on security projects.
 ```
 
-## `$ ls -la /opt/projects/ | grep -v "total" | sort -k8`
+## `$ cat skills.txt`
 
-```bash
--rwxr-xr--  1 navi-04 hackers 14337 Apr 25 2023 Exam-Hall-Allocation
--rwxr-xr--  1 navi-04 hackers 12458 Mar 10 2023 Security-Tools
--rwxr-xr--  1 navi-04 hackers 10912 Feb 15 2023 React-Projects
--rwx------  1 navi-04 root     7331 Dec 31 2023 confidential.sh
+### Languages
+`HTML` `CSS` `JavaScript` `Java` `Python` `Java`
+
+### Frameworks & Libraries
+`React.js` `Node.js` `TensorFlow`
+
+### Databases
+`MongoDB` `MySQL` `SQLite`
+
+### Tools & Platforms
+`Linux` `Arduino` `Android Studio`
+
+## `$ cat interests.txt`
+```
+React | Ethical Hacking | AI | Cybersecurity
+```
+
+## `$ ls -la projects/`
+
+```
+drwxr-xr-x  2 navi-04 navi-04  4096 Apr 25 2023 Exam-Hall-Allocation
+drwxr-xr-x  2 navi-04 navi-04  4096 Mar 10 2023 Security-Tools
+drwxr-xr-x  2 navi-04 navi-04  4096 Feb 15 2023 React-Projects
 ```
 
 
@@ -101,34 +92,6 @@ Trophy Collection:
 
 ```
 I can hack your system before you finish reading this page!
-```
-
-## `$ ssh-keygen -t cyber -f contact_methods`
-
-```bash
-# PUBLIC KEY
-Email............: naveenrajthiyagarajan6@gmail.com
-Twitter..........: @navithiyagu
-Instagram........: @naveenraj.thiyagarajan
-HackerRank.......: naveenrajthiyag1
-LeetCode.........: navithiyag
-
-# FINGERPRINT
-SHA-256: All communications encrypted with military-grade algorithms
-```
-
-## `$ journalctl --since "2023-01-01" | grep "fun-fact" | tail -1`
-
-```
-Jan 01 00:00:01 hackstation kernel: [  INFO] fun-fact: I can break into a system faster than most people can read this README
-```
-
-## `$ cat /etc/motd`
-
-```
-THE MATRIX HAS YOU
-FOLLOW THE WHITE RABBIT
-KNOCK KNOCK
 ```
 
 
