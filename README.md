@@ -1,11 +1,11 @@
 # NAVEENRAJ THIYAGARAJAN
 
-> Cybersecurity Enthusiast | Developer | Ethical Hacker
+> Cybersecurity Enthusiast | Developer | Ethical Hacker | JLPT N2
 
 ## `$ whoami`
 
 ```
-White Hat enthusiast from India currently working on Exam Hall Allocation
+White Hat enthusiast from India currently working on ML and DL 
 and learning React.js. Looking to collaborate on security projects.
 ```
 
@@ -27,15 +27,6 @@ and learning React.js. Looking to collaborate on security projects.
 ```
 React | Ethical Hacking | AI | Cybersecurity
 ```
-
-## `$ ls -la projects/`
-
-```
-drwxr-xr-x  2 navi-04 navi-04  4096 Apr 25 2023 Exam-Hall-Allocation
-drwxr-xr-x  2 navi-04 navi-04  4096 Mar 10 2023 Security-Tools
-drwxr-xr-x  2 navi-04 navi-04  4096 Feb 15 2023 React-Projects
-```
-
 
 ## `$ github stats --summary`
 
@@ -88,10 +79,5 @@ Trophy Collection:
                 ||     ||
 ```
 
-## `$ echo "Fun Fact"`
-
-```
-I can hack your system before you finish reading this page!
-```
 
 
