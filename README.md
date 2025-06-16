@@ -6,10 +6,10 @@
 
 ```
 White Hat enthusiast from India currently working on ML and DL 
-and learning React.js. Looking to collaborate on security projects.
+and learning React.js. Looking to collaborate on security projects. 
 ```
 
-## `$ cat skills.txt`
+## `$ cat skills.txt` 
 
 ### Languages
 `HTML` `CSS` `JavaScript` `Java` `Python` `Java`
