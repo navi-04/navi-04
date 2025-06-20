@@ -61,7 +61,7 @@ Trophy Collection:
 
 ## `$ cat contribution-graph.txt`
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=navi-04&theme=react-dark&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=navi-04&theme=redical&bg_color=0D1117&hide_border=true&line=E4405F&point=ffffff&include_all_commits=true&count_private=true)](https://github.com/navi-04) 
 
 ## `$ fortune | cowsay` 
 
