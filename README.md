@@ -49,7 +49,7 @@ Most Used Languages:
 Contribution Streak (Including Private):  
 ```
 
-[![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=navi-04&theme=radical&hide_border=true&count_private=true)](https://github.com/navi-04)
+[![GitHub Streak](https://streak-stats.demolab.com?user=navi-04&theme=radical&date_format=j%20M%5B%20Y%5D&ring=DD2727&fire=DD2727)](https://git.io/streak-stats)
 
 ```
 Trophy Collection:
@@ -61,7 +61,7 @@ Trophy Collection:
 
 ## `$ cat contribution-graph.txt`
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=navi-04&theme=redical&bg_color=0D1117&hide_border=true&line=E4405F&point=ffffff&include_all_commits=true&count_private=true)](https://github.com/navi-04) 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=navi-04&theme=react-dark&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## `$ fortune | cowsay` 
 
