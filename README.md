@@ -21,7 +21,7 @@ and learning React.js. Looking to collaborate on security projects.
 `MongoDB` `MySQL` `SQLite`
 
 ### Tools & Platforms
-`Linux` `Arduino` `Android Studio`
+`Linux` `Arduino` `Android Studio` 
 
 ## `$ cat interests.txt`
 ```
