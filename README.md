@@ -53,7 +53,7 @@ Contribution Streak (Including Private):
 
 ```
 Trophy Collection:
-```
+``` 
 
 [![Trophy](https://github-profile-trophy.vercel.app/?username=navi-04&theme=algolia&no-frame=true&column=7&margin-w=15&count_private=true)](https://github.com/navi-04)
 
