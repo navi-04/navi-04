@@ -37,7 +37,7 @@ React | Ethical Hacking | AI | Cybersecurity
 GitHub Stats Overview:
 ```
 
-[![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=navi-04&theme=radical&show_icons=true&include_all_commits=true&hide_border=true&count_private=true)](https://github.com/navi-04)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=navi-04&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=merko)](https://github.com/navi-04)
  
 ```
 Most Used Languages:
