@@ -22,7 +22,7 @@ and learning React.js. Looking to collaborate on security projects.
 
 ### Tools & Platforms
 `Linux` `Arduino` `Android Studio` 
-
+ 
 ## `$ cat interests.txt`
 ```
 React | Ethical Hacking | AI | Cybersecurity
