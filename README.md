@@ -1,7 +1,7 @@
 # NAVEENRAJ THIYAGARAJAN
   
 > Cybersecurity Enthusiast | Developer | Ethical Hacker | JLPT N2 
- 
+  
 ## `$ whoami`     
  
 ```
