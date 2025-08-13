@@ -2,7 +2,7 @@
    
 > Cybersecurity Enthusiast | Developer | Ethical Hacker | JLPT N2 
   
-## `$ whoami`     
+## `$ whoami`      
   
 ```
 White Hat enthusiast from India currently working on ML and DL   
