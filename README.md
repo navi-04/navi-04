@@ -5,7 +5,7 @@
 ## `$ whoami`      
    
 ``` 
-White Hat enthusiast from India currently working on ML and DL    
+White Hat enthusiast from India, currently working on ML and DL,    
 and learning React.js. Looking to collaborate on security projects.     
 ```      
 
@@ -40,12 +40,6 @@ GitHub Stats Overview:
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=navi-04&show_icons=true&show=reviews,discussions_started&theme=merko&rank_icon=percentile)](https://github.com/navi-04)
  
 ```
-Most Used Languages:
-``` 
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=navi-04&layout=compact&langs_count=8&theme=radical&hide_border=true&count_private=true)](https://github.com/navi-04)
- 
-```
 Contribution Streak (Including Private):  
 ```
 
@@ -69,7 +63,7 @@ Trophy Collection:
  _________________________________________
 / "Security in IT is like locking your    \
 | house or car – it doesn't stop the bad  |
-| guys, but if it's good enough they may  |
+| guys, but if it's good enough, they may  |
 \ move on to an easier target."           /
  -----------------------------------------
         \   ^__^
