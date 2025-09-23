@@ -14,7 +14,7 @@ and learning React.js. Looking to collaborate on security projects.
 ### Languages  
 `HTML` `CSS` `JavaScript` `Java` `Python` `Java` 
 
-### Frameworks & Libraries 
+### Frameworks & Libraries  
 `React.js` `Node.js` `TensorFlow`
 
 ### Databases
