@@ -10,7 +10,7 @@ and learning React.js. Looking to collaborate on security projects.
 ```      
   
 ## `$ cat skills.txt`    
-
+ 
 ### Languages  
 `HTML` `CSS` `JavaScript` `Java` `Python` `Java` 
 
