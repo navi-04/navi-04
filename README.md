@@ -11,7 +11,7 @@
 GitHub Stats Overview:
 ```
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=navi-04&show_icons=true&theme=merko&rank_icon=percentile&include_all_commits=true)](https://github.com/navi-04)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=navi-04&show_icons=true&theme=merko)](https://github.com/navi-04)
  
 ```
 Contribution Streak (Including Private):  
