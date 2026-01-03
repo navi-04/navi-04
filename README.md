@@ -11,24 +11,24 @@
 GitHub Stats Overview:
 ```
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=navi-04&show_icons=true&show=reviews,discussions_started&theme=merko&rank_icon=percentile)](https://github.com/navi-04)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=navi-04&show_icons=true&theme=merko&rank_icon=percentile&include_all_commits=true)](https://github.com/navi-04)
  
 ```
 Contribution Streak (Including Private):  
 ```
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=navi-04&theme=radical&date_format=j%20M%5B%20Y%5D&ring=DD2727&fire=DD2727)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=navi-04&theme=radical&date_format=j%20M%5B%20Y%5D&ring=DD2727&fire=DD2727)](https://git.io/streak-stats)
 
 ```
 Trophy Collection:
 ``` 
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=navi-04&theme=algolia&no-frame=true&column=7&margin-w=15&count_private=true)](https://github.com/navi-04)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=navi-04&theme=algolia&no-frame=true&column=7&margin-w=15)](https://github.com/navi-04)
 
 </details>
 
 ## `$ cat contribution-graph.txt`
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=navi-04&theme=redical&bg_color=0D1117&hide_border=true&line=E4405F&point=ffffff&include_all_commits=true&count_private=true)](https://github.com/navi-04) 
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=navi-04&theme=radical&bg_color=0D1117&hide_border=true&line=E4405F&point=ffffff&include_all_commits=true&count_private=true)](https://github.com/navi-04) 
 
 
