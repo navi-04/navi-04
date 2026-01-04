@@ -3,7 +3,7 @@
 <details>
 <summary>View Stats</summary>
 
-```
+``` 
 GitHub Stats Overview:
 ```
 
