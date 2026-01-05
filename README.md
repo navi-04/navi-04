@@ -1,5 +1,5 @@
 ## `$ github stats --summary`
-
+ 
 <details>
 <summary>View Stats</summary>
 
