@@ -11,22 +11,18 @@
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-trophies.vercel.app/?username=navi-04&theme=algolia&no-frame=true&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=navi-04&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </p>
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=navi-04&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=navi-04&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
 </p>
 
-## 📊 Most Used Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=navi-04&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
 
 ## 🔥 GitHub Streak
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=navi-04&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://niharika-rai.github.io/github-readme-streak-stats/?user=navi-04&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ## 📉 Contribution Graph
