@@ -1,8 +1,8 @@
 <p align="center">
-  <a href="#">
+  <a href="#"> 
     <img src="image.png" width="400">
   </a>
-</p>
+</p> 
 
 <details>
 <summary>📊 GitHub Stats & Trophies</summary>
