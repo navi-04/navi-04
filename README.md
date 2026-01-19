@@ -14,10 +14,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=navi-04&theme=tokyonight" alt="GitHub Profile Summary" />
 </p>
 
-## GitHub Trophies
-<p align="center">
-  <img src="https://github-trophies.vercel.app/?username=navi-04&theme=algolia&no-frame=false&no-bg=false&margin-w=4&no-rank=true&hide=Ancient" alt="GitHub Trophies" />
-</p>
 
 ## GitHub Stats
 <p align="center">
@@ -35,5 +31,9 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=navi-04&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
 </p>
 
+## GitHub Trophies
+<p align="center">
+  <img src="https://github-trophies.vercel.app/?username=navi-04&theme=algolia&no-frame=false&no-bg=false&margin-w=4&no-rank=true&hide=Ancient" alt="GitHub Trophies" />
+</p>
 </details>
 
