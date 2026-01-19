@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="#"> 
+  <a href="https://github.com/navi-04"> 
     <img src="image.png" width="400">
   </a>
 </p> 
@@ -11,7 +11,7 @@
 
 ## GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=navi-04&theme=algolia&no-frame=false&margin-w=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=navi-04&theme=tokyonight" alt="GitHub Profile Summary" />
 </p>
 
 ## GitHub Stats
@@ -22,7 +22,7 @@
 
 ## GitHub Streak
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=navi-04&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=navi-04&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ## Contribution Graph
